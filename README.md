@@ -63,14 +63,6 @@ _(already part of Home Assistant Operating System / HassOS)_
 1. Once the system could connect to one of the lights your lights will show up as _available_ and can be controlled from HA   
 1. Enjoy
 
-
-## Todo
-- [ ] Add option to refetch/update devices from **AwoX Smart Control** account
-- [ ] Finish support adding lights without **AwoX Smart Control** account _(full local support)_
-- [ ] Add support for `plug` power monitoring _(currently do not own such a device, maybe you can sponser me one so I can try to add support for it)_
-- [ ] Add support for `ble.zigbee` devices _(if possible)_
-
-
 ## Troubleshooting
 **Make sure that at least *1 device/light* is in *bluetooth range* of your Home Assistant server.**
 
