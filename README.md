@@ -4,9 +4,6 @@
 
 # AwoX MESH control component for Home Assistant
 
-[![hacs_badge](https://img.shields.io/badge/HACS-Custom-orange.svg?style=for-the-badge)](https://hacs.xyz/)
-![stability-wip](https://img.shields.io/badge/stability-stable-green.svg?style=for-the-badge&color=green)
-
 ![AwoX Smart Control](https://github.com/fsaris/home-assistant-awox/blob/main/images/icon.png?raw=true)
 
 Control your AwoX, Eglo, ... bluetooth lights from Home Assistant
