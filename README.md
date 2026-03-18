@@ -1,7 +1,5 @@
 > [!WARNING]
-> This is s patched version of the original
-> Will not get feature updates
-> Made to work on the latest version of home assistant
+> This is s patched version of the original therefore will not get feature updates.
 
 
 # AwoX MESH control component for Home Assistant
